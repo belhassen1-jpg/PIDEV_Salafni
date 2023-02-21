@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PIDEV_Salafni.iml" filepath="$PROJECT_DIR$/.idea/PIDEV_Salafni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pidev_salafni.iml" filepath="$PROJECT_DIR$/pidev_salafni.iml" />
     </modules>
   </component>
 </project>
